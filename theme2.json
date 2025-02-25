@@ -3,8 +3,8 @@
   "description": "Ultra dark theme for AMOLED screens",
   "authors": [
     {
-      "name": "claracrazy",
-      "id": "939406522742611979"
+      "name": "xGlitchBruxo",
+      "id": "1245573284779659289"
     }
   ],
   "spec": 2,
@@ -106,7 +106,7 @@
   },
   "background": {
     "blur": 0.0,
-    "url": "https://i.imgur.com/LDfIqN7.png",
+    "url": "https://raw.githubusercontent.com/GlitchBruxo/csmos/refs/heads/main/4c099918cdcd030769e1386f3dc84384.jpg",
     "alpha": 0.5
   },
   "plus": {
